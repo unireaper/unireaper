@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @unireaper
+- Contact email unireaper@jdm.red
+
 
 <!---
 unireaper/unireaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
