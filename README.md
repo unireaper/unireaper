@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unireaper
-- Contact email unireaper@jdm.red
+- Contact email unireaper@mail.jdm.red
 
 
 <!---
